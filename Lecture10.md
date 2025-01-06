@@ -40,7 +40,7 @@ $$
 
 $$
 i(t) = C \cdot \frac{dv(t)}{dt} \\
-\int_{-\infin}^t i\cdot dt = C \cdot v(t)
+\int_{-\infty}^t i\cdot dt = C \cdot v(t)
 $$
 
 通过电容器的电流决定了电容器的充电速度，电容器的电流是电压的导数。
